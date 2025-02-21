@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Array
+|  |
+| ------- |
+| [1138-grumpy-bookstore-owner](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1138-grumpy-bookstore-owner) |
+## Sliding Window
+|  |
+| ------- |
+| [1138-grumpy-bookstore-owner](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1138-grumpy-bookstore-owner) |
 <!---LeetCode Topics End-->
