@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2681-put-marbles-in-bags](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,8 +86,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
 | [2649-count-total-number-of-colored-cells](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2649-count-total-number-of-colored-cells) |
+| [3227-find-missing-and-repeated-values](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
+## Matrix
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
