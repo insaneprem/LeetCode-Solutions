@@ -50,14 +50,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 ## String
 |  |
@@ -110,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
