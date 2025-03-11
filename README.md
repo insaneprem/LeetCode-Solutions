@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2556-convert-the-temperature](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2556-convert-the-temperature) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2610-closest-prime-numbers-in-range](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2649-count-total-number-of-colored-cells) |
