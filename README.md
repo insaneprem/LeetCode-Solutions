@@ -14,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2681-put-marbles-in-bags](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2904-sorting-three-groups](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2904-sorting-three-groups) |
 | [3227-find-missing-and-repeated-values](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3483-alternating-groups-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2904-sorting-three-groups](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2904-sorting-three-groups) |
 ## Greedy
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1170-shortest-common-supersequence](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
+| [2904-sorting-three-groups](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2904-sorting-three-groups) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
