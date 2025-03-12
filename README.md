@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1170-shortest-common-supersequence](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [3379-score-of-a-string](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3379-score-of-a-string) |
@@ -157,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0477-total-hamming-distance](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0477-total-hamming-distance) |
 | [2402-maximum-xor-after-operations](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2402-maximum-xor-after-operations) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
