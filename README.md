@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3483-alternating-groups-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1170-shortest-common-supersequence](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [3194-find-words-containing-character](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3379-score-of-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
