@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1530-check-if-a-string-can-break-another-string](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1961-maximum-ice-cream-bars](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1530-check-if-a-string-can-break-another-string](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1961-maximum-ice-cream-bars](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1170-shortest-common-supersequence](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
+| [1530-check-if-a-string-can-break-another-string](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [3194-find-words-containing-character](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
