@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-sorting-three-groups](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2904-sorting-three-groups) |
 | [3194-find-words-containing-character](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3483-alternating-groups-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3483-alternating-groups-ii) |
 ## Binary Search
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## String
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Linked List
 |  |
 | ------- |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0477-total-hamming-distance](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0477-total-hamming-distance) |
 | [2402-maximum-xor-after-operations](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2402-maximum-xor-after-operations) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## String Matching
 |  |
 | ------- |
