@@ -1,4 +1,3 @@
-typedef pair<int, int> P;
 class DSU {
     vector<int> parent, size, rank;
 
@@ -54,35 +53,27 @@ public:
 };
 class Solution {
 public:
-    vector<int> minimumCost(int n, vector<vector<int>>& edges,
-                            vector<vector<int>>& query) {
+    vector<int> minimumCost(int n, vector<vector<int>>& edges, vector<vector<int>>& query) {
         DSU dsu(n);
 
-        for (auto e : edges) {
-            dsu.unionRank(e[0], e[1]);
-        }
+        for(auto e:edges) dsu.unionRank(e[0],e[1]);
 
-        map<int, int> mpp;
+        map<int,int> mpp;
 
-        for (auto e : edges) {
-            int root = dsu.findpar(e[0]);
-            if (mpp.find(root) == mpp.end())
-                mpp[root] = e[2];
-            else {
-                int val = mpp[root];
-                mpp[root] = val & e[2];
-            }
+        for(auto e:edges){
+            int root=dsu.findpar(e[0]);
+            if(mpp.find(root) == mpp.end()) mpp[root]=e[2];
+            else mpp[root] = mpp[root] & e[2];
         }
 
         vector<int> ans;
-        for (auto q : query) {
-            int u = q[0], v = q[1];
-            if (dsu.findpar(u) != dsu.findpar(v))
-                ans.push_back(-1);
-            else
-                ans.push_back(mpp[dsu.findpar(v)]);
+
+        for(auto q:query){
+            ans.push_back((dsu.findpar(q[0]) == dsu.findpar(q[1])) ? mpp[dsu.findpar(q[1])] : -1);
         }
 
         return ans;
+
+
     }
 };
