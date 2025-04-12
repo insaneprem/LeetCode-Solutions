@@ -1,78 +1,39 @@
 class Solution {
-    void solve(
-        int n, 
-        int k, 
-        int idx, 
-        map<int, int>&mp,
-        set<map<int, int>>&st,
-        string&curr
-    ) {
-        if (idx == (n + 1) / 2) {
-            for(int i = n / 2 - 1; i >= 0; i--) {
-                curr.push_back(curr[i]);
-                mp[curr[i]-'0']++;
-            }
-            long long num = stoll(curr);
-            if (num%k == 0) {
-                st.insert(mp);
-            }
-            for(int i = n / 2 - 1; i >= 0; i--) {
-                mp[curr[i]-'0']--;
-                curr.pop_back();
-            }
-            return;
-        }
-        for (int i=0; i<=9; i++) {
-            curr.push_back(i+'0');
-            mp[i]++;
-            solve(n, k, idx+1, mp, st, curr);
-            mp[i]--;
-            curr.pop_back();
-        }
-    }
-    long long fact(
-        int x,
-        unordered_map<int, long long>& dp
-    ) {
-        if (x == 0) return 1;
-        if (dp.count(x)) return dp[x];
-        return dp[x] = x * fact(x - 1, dp);
-    }
-    long long count_perm(
-        map<int, int>&mp,
-        unordered_map<int, long long>& dp
-    ) {
-        int n = 0;
-        for (auto& elem: mp) {
-            n += elem.second;
-        }
-        long long ans = fact(n, dp);
-        for (auto&[_, x]: mp) {
-            ans /= fact(x, dp);
-        }
-        return ans;
-    }
 public:
     long long countGoodIntegers(int n, int k) {
-        map<int, int> mp;
-        set<map<int, int>> st;
-        string curr;
-        for (int i=1; i<=9; i++) {
-            curr.push_back(i+'0');
-            mp[i]++;
-            solve(n, k, 1, mp, st, curr);
-            mp[i]--;
-            curr.pop_back();
-        }
-        long long ans = 0;
-        unordered_map<int, long long> dp;
-        for (auto m: st) {
-            ans += count_perm(m, dp);
-            if (m[0] != 0) {
-                m[0]--;
-                ans -= count_perm(m, dp);
+        unordered_set<string> dict;
+        int base = pow(10, (n - 1) / 2);
+        int skip = n & 1;
+        /* Enumerate the number of palindrome numbers of n digits */
+        for (int i = base; i < base * 10; i++) {
+            string s = to_string(i);
+            s += string(s.rbegin() + skip, s.rend());
+            long long palindromicInteger = stoll(s);
+            /* If the current palindrome number is a k-palindromic integer */
+            if (palindromicInteger % k == 0) {
+                sort(s.begin(), s.end());
+                dict.emplace(s);
             }
         }
+
+        vector<long long> factorial(n + 1, 1);
+        long long ans = 0;
+        for (int i = 1; i <= n; i++) {
+            factorial[i] = factorial[i - 1] * i;
+        }
+        for (const string &s : dict) {
+            vector<int> cnt(10);
+            for (char c : s) {
+                cnt[c - '0']++;
+            }
+            /* Calculate permutations and combinations */
+            long long tot = (n - cnt[0]) * factorial[n - 1];
+            for (int x : cnt) {
+                tot /= factorial[x];
+            }
+            ans += tot;
+        }
+
         return ans;
     }
 };
