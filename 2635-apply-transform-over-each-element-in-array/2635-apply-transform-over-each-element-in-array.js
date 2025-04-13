@@ -4,6 +4,8 @@
  * @return {number[]}
  */
 var map = function(arr, fn) {
-    const narr=arr.map(fn);
-    return narr;
+    for (let i = 0; i < arr.length; i++) {
+        arr[i] = fn(arr[i], i);
+    }
+    return arr;
 };
