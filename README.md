@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-path-with-maximum-gold](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1331-path-with-maximum-gold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1656-count-good-triplets](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1656-count-good-triplets) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1961-maximum-ice-cream-bars](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3548-find-the-count-of-good-integers](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 <!---LeetCode Topics End-->
