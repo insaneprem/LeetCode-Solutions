@@ -120,12 +120,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3379-score-of-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3637-count-number-of-balanced-permutations](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1170-shortest-common-supersequence](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [2262-solving-questions-with-brainpower](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2904-sorting-three-groups](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2904-sorting-three-groups) |
+| [3637-count-number-of-balanced-permutations](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-maximum-achievable-number](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2812-find-the-maximum-achievable-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3548-find-the-count-of-good-integers](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Matrix
 |  |
 | ------- |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3548-find-the-count-of-good-integers](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Enumeration
 |  |
 | ------- |
