@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0477-total-hamming-distance](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0477-total-hamming-distance) |
 | [0561-array-partition](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [1293-three-consecutive-odds](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0561-array-partition](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1530-check-if-a-string-can-break-another-string) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [2551-apply-operations-to-an-array](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
