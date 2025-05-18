@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1170-shortest-common-supersequence](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2262-solving-questions-with-brainpower](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2904-sorting-three-groups](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2904-sorting-three-groups) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
