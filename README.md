@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1170-shortest-common-supersequence](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2262-solving-questions-with-brainpower](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2904-sorting-three-groups](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2904-sorting-three-groups) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [1961-maximum-ice-cream-bars](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Two Pointers
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Combinatorics
 |  |
@@ -262,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
