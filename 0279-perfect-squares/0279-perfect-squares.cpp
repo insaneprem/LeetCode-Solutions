@@ -1,19 +1,25 @@
 class Solution {
 public:
     int numSquares(int n) {
-        vector<int> prefect;
-        for (int i = 1; i * i <= n; i++)
-            prefect.push_back(i * i);
+        int val = n;
+        int sqrtval = sqrt(val);
 
-        vector<int> dp(n + 1, 1e9);
-        dp[0] = 0;
-        for (int i = 1; i <= n; i++) {
-            for (auto num : prefect) {
-                if (i - num >= 0)
-                    dp[i] = min(dp[i], dp[i - num] + 1);
-            }
+        if (sqrtval * sqrtval == val)
+            return 1;
+
+        while (val % 4 == 0)
+            val /= 4;
+        if (val % 8 == 7)
+            return 4;
+
+        for (int i = 1; i * i <= n; i++) {
+            int ps = i * i;
+            int remval = n - ps;
+            int sqrtrem = sqrt(remval);
+            if (sqrtrem * sqrtrem == remval)
+                return 2;
         }
 
-        return dp[n];
+        return 3;
     }
 };
