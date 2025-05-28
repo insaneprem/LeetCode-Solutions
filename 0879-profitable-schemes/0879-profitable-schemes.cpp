@@ -1,36 +1,33 @@
 class Solution {
 public:
     const int MOD = 1e9 + 7;
-    int n, minProfit;
-    vector<int> group, profit;
-    int dp[101][101][101];
-
-    int solve(int idx, int peopleUsed, int currProfit) {
-        if (peopleUsed > n)
-            return 0;
-        if (idx == group.size())
-            return currProfit >= minProfit ? 1 : 0;
-
-        if (dp[idx][peopleUsed][currProfit] != -1)
-            return dp[idx][peopleUsed][currProfit];
-
-        int ways = solve(idx + 1, peopleUsed, currProfit);
-
-        int newPeople = peopleUsed + group[idx];
-        int newProfit = min(minProfit,currProfit + profit[idx]);
-        ways = (ways + solve(idx + 1, newPeople, newProfit)) % MOD;
-
-        return dp[idx][peopleUsed][currProfit] = ways;
-    }
-
     int profitableSchemes(int n, int minProfit, vector<int>& group,
                           vector<int>& profit) {
-        this->n = n;
-        this->minProfit = minProfit;
-        this->group = group;
-        this->profit = profit;
+        vector<vector<vector<int>>> dp(
+            group.size() + 1,
+            vector<vector<int>>(n + 1, vector<int>(minProfit + 1, 0)));
+        dp[0][0][0] = 1;
 
-        memset(dp, -1, sizeof(dp));
-        return solve(0, 0, 0);
+        for (int k = 1; k <= group.size(); k++) {
+            int g = group[k - 1];
+            int p = profit[k - 1];
+
+            for (int i = 0; i <= n; i++) {
+                for (int j = 0; j <= minProfit; j++) {
+                    dp[k][i][j] = dp[k - 1][i][j];
+                    if (i - g >= 0)
+                        dp[k][i][j] =
+                            (dp[k][i][j] + dp[k - 1][i - g][max(0, j - p)]) %
+                            MOD;
+                }
+            }
+        }
+
+        int sum = 0;
+
+        for (int i = 0; i <= n; i++)
+            sum = (sum + dp[group.size()][i][minProfit]) % MOD;
+
+        return sum;
     }
 };
