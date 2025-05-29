@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
+| [3345-find-the-sum-of-the-power-of-all-subsequences](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3345-find-the-sum-of-the-power-of-all-subsequences) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3483-alternating-groups-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3483-alternating-groups-ii) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2904-sorting-three-groups](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2904-sorting-three-groups) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3345-find-the-sum-of-the-power-of-all-subsequences](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3345-find-the-sum-of-the-power-of-all-subsequences) |
 | [3637-count-number-of-balanced-permutations](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Heap (Priority Queue)
 |  |
