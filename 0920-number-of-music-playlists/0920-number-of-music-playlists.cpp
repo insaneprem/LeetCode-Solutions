@@ -1,31 +1,21 @@
 class Solution {
 public:
-    int n, goal, k;
-    long long dp[101][101];
     const int MOD = 1e9 + 7;
-
-    long long solve(int currSong, int usedSongs) {
-        if (currSong == goal)
-            return usedSongs == n ? 1 : 0;
-
-        if (dp[currSong][usedSongs] != -1)
-            return dp[currSong][usedSongs];
-
-        long long res = 0;
-        res += (n - usedSongs) * solve(currSong + 1, usedSongs + 1) % MOD;
-
-        if (usedSongs > k)
-            res += (usedSongs - k) * solve(currSong + 1, usedSongs) % MOD;
-
-        return dp[currSong][usedSongs] = res % MOD;
-    }
-
     int numMusicPlaylists(int n, int goal, int k) {
-        this->n = n;
-        this->goal = goal;
-        this->k = k;
+        long long dp[101][101] =
+            {}; // number of playlist with i length and j unique songs
 
-        memset(dp, -1, sizeof(dp));
-        return (int)solve(0, 0);
+        dp[0][0] = 1;
+
+        for (int i = 1; i <= goal; i++) {
+            for (int j = 1; j <= n; j++) {
+                dp[i][j] = ((n - j + 1) * dp[i - 1][j - 1]) % MOD;
+
+                if (j - k >= 0)
+                    dp[i][j] = (dp[i][j] + (j - k) * dp[i - 1][j]) % MOD;
+            }
+        }
+
+        return dp[goal][n];
     }
 };
