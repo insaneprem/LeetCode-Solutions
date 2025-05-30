@@ -1,28 +1,22 @@
 class Solution {
 public:
-    int k;
-    int dp[1001][2001];
-    int solve(int i, int k, vector<vector<int>>& piles) {
-        if (i >= piles.size())
-            return 0;
+    int maxValueOfCoins(vector<vector<int>>& piles, int k) {
+        int dp[1001][2001];
+        memset(dp, 0, sizeof(dp));
 
-        if(dp[i][k] != -1) return dp[i][k];
+        for (int i = 1; i <= piles.size(); i++) {
+            for (int j = 0; j <= k; j++) {
+                int ntake = dp[i - 1][j];
 
-        int ntake = solve(i + 1, k, piles);
-        int taken = 0, sum = 0, res = 0;
-
-        int total = piles[i].size();
-        for (int j = 0; j < min(total, k); j++) {
-            sum += piles[i][j];
-
-            taken = max(taken, sum + solve(i + 1, k - (j + 1), piles));
+                int take = 0, sum = 0;
+                for (int a = 0; a < min(j, (int) piles[i - 1].size()); a++) {
+                    sum += piles[i - 1][a];
+                    take = max(take, sum + dp[i - 1][max(0, j - (a + 1))]);
+                }
+                dp[i][j] = max(take, ntake);
+            }
         }
 
-        return dp[i][k]=max(ntake, taken);
-    }
-    int maxValueOfCoins(vector<vector<int>>& piles, int k) {
-        this->k = k;
-        memset(dp, -1, sizeof(dp));
-        return solve(0, k, piles);
+        return dp[piles.size()][k];
     }
 };
