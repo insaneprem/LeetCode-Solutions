@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0135-candy](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0135-candy) |
 | [0477-total-hamming-distance](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0477-total-hamming-distance) |
 | [0561-array-partition](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [1220-smallest-sufficient-team](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1220-smallest-sufficient-team) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0135-candy) |
 | [0561-array-partition](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1530-check-if-a-string-can-break-another-string) |
