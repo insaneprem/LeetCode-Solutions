@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1170-shortest-common-supersequence](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1530-check-if-a-string-can-break-another-string) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Linked List
