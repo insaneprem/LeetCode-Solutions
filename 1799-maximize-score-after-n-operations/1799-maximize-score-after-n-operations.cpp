@@ -1,37 +1,41 @@
 class Solution {
 public:
-    map<int, int> dp;
     int m, n;
     vector<int> nums;
-    int solve(int op, int mask) {
+    unordered_map<vector<bool>, int> dp;
+    int solve(int op, vector<bool>& visited) {
         if (op > n)
             return 0;
 
-        if (dp.find(mask) != dp.end())
-            return dp[mask];
+        if (dp.find(visited) != dp.end())
+            return dp[visited];
 
-        int maxscore = 0;
+        int ans = 0;
         for (int i = 0; i < m; i++) {
-            if (mask & (1 << i))
+            if (visited[i])
                 continue;
-            for (int j = i + 1; j < m; j++) {
-                if (mask & (1 << j))
+            for (int j = 0; j < m; j++) {
+                if (visited[j] || i == j)
                     continue;
 
-                int newmask = (1 << i) | (1 << j) | mask;
-                int score = op * gcd(nums[i], nums[j]) + solve(op + 1, newmask);
+                int score = op * gcd(nums[i], nums[j]);
+                visited[i] = 1;
+                visited[j] = 1;
 
-                maxscore = max(maxscore, score);
+                ans = max(ans, score + solve(op + 1, visited));
+                visited[i] = 0;
+                visited[j] = 0;
             }
         }
 
-        return dp[mask] = maxscore;
+        return dp[visited] = ans;
     }
     int maxScore(vector<int>& nums) {
-        this->nums = nums;
         this->m = nums.size();
         this->n = nums.size() / 2;
+        this->nums = nums;
+        vector<bool> visited(m, 0);
 
-        return solve(1, 0);
+        return solve(1, visited);
     }
 };
