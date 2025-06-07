@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-split-of-positive-even-integers](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2681-put-marbles-in-bags](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Sliding Window
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3379-score-of-a-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Counting Sort
 |  |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2480-find-subarrays-with-equal-sum](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3548-find-the-count-of-good-integers](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -235,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2573-remove-nodes-from-linked-list](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2573-remove-nodes-from-linked-list) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Recursion
 |  |
 | ------- |
