@@ -1,32 +1,38 @@
 class Solution {
 public:
-    int N, M, K;
-    int dp[51][101][51];
     const int MOD = 1e9 + 7;
-    int solve(int idx, int maxSofar, int searchCost) {
-        if (idx == N)
-            return searchCost == K;
+    int numOfArrays(int n, int m, int k) {
+        vector<vector<vector<int>>> dp(
+            n + 1, vector<vector<int>>(m + 1, vector<int>(k + 1, 0)));
 
-        if (dp[idx][maxSofar][searchCost] != -1)
-            return dp[idx][maxSofar][searchCost];
+        for (int j = 1; j <= m; j++)
+            dp[1][j][1] = 1;
+
+        for (int len = 2; len <= n; len++) {
+            for (int maxVal = 1; maxVal <= m; maxVal++) {
+                for (int cost = 1; cost <= k; cost++) {
+                    int v = dp[len-1][maxVal][cost];
+                    for (int l = 1; l <= maxVal; l++)
+                        dp[len][maxVal][cost] =
+                            (dp[len][maxVal][cost] + v) % MOD;
+                    // dp[len][maxVal][cost] = (dp[len - 1][maxVal][cost] *
+                    // maxVal) % MOD;
+
+                    for (int prevMax = 1; prevMax < maxVal; prevMax++) {
+                        dp[len][maxVal][cost] =
+                            (dp[len][maxVal][cost] +
+                             dp[len - 1][prevMax][cost - 1]) %
+                            MOD;
+                    }
+                }
+            }
+        }
 
         int res = 0;
 
-        for (int i = 1; i <= M; i++) {
-            if (i > maxSofar)
-                res = (res + solve(idx + 1, i, searchCost + 1)) % MOD;
-            else
-                res = (res + solve(idx + 1, maxSofar, searchCost)) % MOD;
-        }
+        for (int j = 1; j <= m; j++)
+            res = (res + dp[n][j][k]) % MOD;
 
-        return dp[idx][maxSofar][searchCost] = res;
-    }
-    int numOfArrays(int n, int m, int k) {
-        N = n;
-        M = m;
-        K = k;
-        memset(dp, -1, sizeof(dp));
-
-        return solve(0, 0, 0);
+        return res;
     }
 };
