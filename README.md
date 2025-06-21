@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-split-of-positive-even-integers](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2681-put-marbles-in-bags](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Sliding Window
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [3321-type-of-triangle](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3379-score-of-a-string](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3379-score-of-a-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [1961-maximum-ice-cream-bars](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Two Pointers
 |  |
@@ -192,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2480-find-subarrays-with-equal-sum](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3548-find-the-count-of-good-integers](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
