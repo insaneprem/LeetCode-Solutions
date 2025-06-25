@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2245-destroying-asteroids](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2245-destroying-asteroids) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2690-house-robber-iv](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2690-house-robber-iv) |
 | [2904-sorting-three-groups](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2904-sorting-three-groups) |
 ## Greedy
