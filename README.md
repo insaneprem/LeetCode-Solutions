@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-find-the-sum-of-the-power-of-all-subsequences](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3345-find-the-sum-of-the-power-of-all-subsequences) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3483-alternating-groups-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3483-alternating-groups-ii) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-sorting-three-groups](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2904-sorting-three-groups) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3345-find-the-sum-of-the-power-of-all-subsequences](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3345-find-the-sum-of-the-power-of-all-subsequences) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Heap (Priority Queue)
 |  |
