@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2022-maximum-alternating-subsequence-sum) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1530-check-if-a-string-can-break-another-string](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1967-longest-substring-of-all-vowels-in-order) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2479-meeting-rooms-iii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2480-find-subarrays-with-equal-sum) |
@@ -341,4 +344,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
