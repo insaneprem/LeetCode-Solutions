@@ -2,12 +2,11 @@ class Solution {
 public:
     int numBusesToDestination(vector<vector<int>>& routes, int source,
                               int target) {
-        if (source == target)
-            return 0;
-
+        if(source == target) return 0;
+        int r = routes.size();
         map<int, vector<int>> stopToRoutes;
 
-        for (int i = 0; i < routes.size(); i++) {
+        for (int i = 0; i < r; i++) {
             for (auto stop : routes[i]) {
                 stopToRoutes[stop].push_back(i);
             }
@@ -17,8 +16,8 @@ public:
         set<int> seenBus;
 
         for (auto bus : stopToRoutes[source]) {
-            q.push(bus);
             seenBus.insert(bus);
+            q.push(bus);
         }
 
         int Bustaken = 1;
