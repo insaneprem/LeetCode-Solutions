@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-the-hidden-sequences](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2402-maximum-xor-after-operations](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2402-maximum-xor-after-operations) |
 | [2479-meeting-rooms-iii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2480-find-subarrays-with-equal-sum) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0477-total-hamming-distance) |
 | [1220-smallest-sufficient-team](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1220-smallest-sufficient-team) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2402-maximum-xor-after-operations](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2402-maximum-xor-after-operations) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## String Matching
