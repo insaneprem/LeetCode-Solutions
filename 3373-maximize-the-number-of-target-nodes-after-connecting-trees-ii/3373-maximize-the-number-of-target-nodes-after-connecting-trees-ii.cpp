@@ -1,37 +1,67 @@
 class Solution {
 public:
-    vector<vector<int>> buildList(const vector<vector<int>>& edges) {
-        vector<vector<int>> adj(edges.size() + 1);
-        for (auto &e : edges) {
-            adj[e[0]].push_back(e[1]);
-            adj[e[1]].push_back(e[0]);
-        }
-        return adj;
-    }
+    void dfs(int node, int par, vector<vector<int>>& adj,
+             vector<vector<int>>& dist) {
+        dist[node][0] = 0;
+        dist[node][1] = 1;
 
-    void dfsColor(const vector<vector<int>>& adj, int u, int parent,
-                  vector<int>& color, int& evenCnt, int& oddCnt) {
-        if (color[u] == 0) evenCnt++;
-        else oddCnt++;
-        for (int v : adj[u]) if (v != parent) {
-            color[v] = color[u] ^ 1;
-            dfsColor(adj, v, u, color, evenCnt, oddCnt);
+        for (auto e : adj[node]) {
+            if (e == par)
+                continue;
+
+            dfs(e, node, adj, dist);
+            dist[node][0] += dist[e][1];
+            dist[node][1] += dist[e][0];
         }
     }
 
-    vector<int> maxTargetNodes(vector<vector<int>>& edges1, vector<vector<int>>& edges2) {
-        auto adjA = buildList(edges1), adjB = buildList(edges2);
-        int n = adjA.size(), m = adjB.size();
-        vector<int> colorA(n, -1), colorB(m, -1);
-        int evenA = 0, oddA = 0, evenB = 0, oddB = 0;
-        colorA[0] = 0;
-        dfsColor(adjA, 0, -1, colorA, evenA, oddA);
-        colorB[0] = 0;
-        dfsColor(adjB, 0, -1, colorB, evenB, oddB);
-        int maxiB = max(evenB, oddB);
-        vector<int> res(n);
-        for (int i = 0; i < n; i++)
-            res[i] = (colorA[i] == 0 ? evenA : oddA) + maxiB;
-        return res;
+    void reroot(int node, int par, vector<vector<int>>& adj,
+                vector<vector<int>> & dist) {
+        for (auto e : adj[node]) {
+            if (e == par)
+                continue;
+
+            int nodd = dist[node][0] - dist[e][1];
+            int neven = dist[node][1] - dist[e][0];
+
+            dist[e][0] += neven;
+            dist[e][1] += nodd;
+
+            reroot(e, node, adj, dist);
+        }
+    }
+    vector<int> maxTargetNodes(vector<vector<int>>& edges1,
+                               vector<vector<int>>& edges2) {
+        int n = edges1.size() + 1, m = edges2.size() + 1;
+
+        vector<vector<int>> adj1(n), adj2(m);
+
+        for (auto e : edges1) {
+            adj1[e[0]].push_back(e[1]);
+            adj1[e[1]].push_back(e[0]);
+        }
+
+        for (auto e : edges2) {
+            adj2[e[0]].push_back(e[1]);
+            adj2[e[1]].push_back(e[0]);
+        }
+
+        vector<vector<int>> dist1(n, vector<int>(2)), dist2(m, vector<int>(2));
+
+        dfs(0, -1, adj1, dist1);
+        reroot(0, -1, adj1, dist1);
+        dfs(0, -1, adj2, dist2);
+        reroot(0, -1, adj2, dist2);
+        int oddmax = 0;
+
+        for(auto e:dist2) oddmax=max(oddmax,e[0]);
+
+        vector<int> ans(n);
+
+        for(int i=0;i<n;i++){
+            ans[i] = dist1[i][1] + oddmax;
+        }
+
+        return ans;
     }
 };
