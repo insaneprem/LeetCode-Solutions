@@ -1,24 +1,25 @@
 class Solution {
 public:
+    const int MOD = 1e9 + 7;
     int specialTriplets(vector<int>& nums) {
-        const int MOD = 1e9 + 7;
         int n = nums.size();
-        unordered_map<int, int> freqLeft;
-        unordered_map<int, int> freqRight;
 
-        for (int i = 0; i < n; i++) {
-            freqRight[nums[i]]++;
-        }
+        map<int, int> freqprev, freqnext;
 
-        long long ans = 0;
+        for (auto i : nums)
+            freqprev[i]++;
 
-        for (int j = 0; j < n; j++) {
-            freqRight[nums[j]]--;  
+        freqnext[nums[n - 1]]++;
 
-            int twice = nums[j] * 2;
-            ans = (ans + 1LL * freqLeft[twice] * freqRight[twice]) % MOD;
+        int ans = 0;
 
-            freqLeft[nums[j]]++; 
+        for (int i = n - 2; i >= 0; i--) {
+            int right = freqnext[nums[i] * 2];
+            freqnext[nums[i]]++;
+            int left = freqprev[nums[i] * 2] - freqnext[nums[i] * 2];
+
+            long long val = (1LL * right * left) % MOD;
+            ans = (ans + val) % MOD;
         }
 
         return ans;
