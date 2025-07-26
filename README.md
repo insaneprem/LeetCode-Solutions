@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 ## Simulation
 |  |
 | ------- |
