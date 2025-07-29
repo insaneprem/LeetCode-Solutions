@@ -2,32 +2,24 @@ class Solution {
 public:
     vector<int> smallestSubarrays(vector<int>& nums) {
         int n = nums.size();
-        vector<vector<int>> bits(32);
+        vector<int> lastSeen(32, -1); 
+        vector<int> res(n);
 
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < 32; j++) {
-                if (nums[i] & (1 << j))
-                    bits[j].push_back(i);
-            }
-        }
-
-        vector<int> res;
-
-        for (int i = 0; i < n; i++) {
-            int farthest_idx = i;
-
-            for (int j = 0; j < 32; j++) {
-                if (nums[i] & (1 << j)) {
-                    continue;
-                }
-                else {
-                    auto it = lower_bound(begin(bits[j]), end(bits[j]), i);
-                    if (it != bits[j].end()) {
-                       farthest_idx = max(farthest_idx, *it);
-                    }
+        for (int i = n - 1; i >= 0; i--) {
+            for (int b = 0; b < 32; b++) {
+                if (nums[i] & (1 << b)) {
+                    lastSeen[b] = i;
                 }
             }
-            res.push_back(farthest_idx - i + 1);
+
+            int maxIdx = i;
+            for (int b = 0; b < 32; b++) {
+                if (lastSeen[b] != -1) {
+                    maxIdx = max(maxIdx, lastSeen[b]);
+                }
+            }
+
+            res[i] = maxIdx - i + 1;
         }
 
         return res;
