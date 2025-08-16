@@ -19,9 +19,7 @@ public:
         sort(begin(nums),end(nums));
 
         for (int i = 0; i < n; i++) {
-            long long toadd = (1LL * nums[(n - i - 1)] * (modexp(2, n - i - 1) - 1)) % MOD;
-            long long todel = (1LL * nums[i] * (modexp(2, n - i - 1) - 1)) % MOD;
-            ans = (ans + toadd - todel + MOD) % MOD; 
+            ans = (ans + ((1LL * nums[(n - i - 1)] * (modexp(2, n - i - 1) - 1)) % MOD) - ((1LL * nums[i] *    (modexp(2, n - i - 1) - 1)) % MOD) + MOD) % MOD; 
         }
 
         return ans;
