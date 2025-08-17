@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0867-new-21-game](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0867-new-21-game) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0867-new-21-game](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0867-new-21-game) |
 | [1170-shortest-common-supersequence](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1220-smallest-sufficient-team](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1220-smallest-sufficient-team) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0477-total-hamming-distance](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0477-total-hamming-distance) |
+| [0867-new-21-game](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0867-new-21-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2279-maximum-split-of-positive-even-integers) |
@@ -379,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
