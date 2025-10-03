@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0135-candy) |
+| [0407-trapping-rain-water-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0477-total-hamming-distance](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0477-total-hamming-distance) |
 | [0498-diagonal-traverse](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0561-array-partition](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0561-array-partition) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0547-number-of-provinces](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2023-design-movie-rental-system](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [1331-path-with-maximum-gold](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1331-path-with-maximum-gold) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
