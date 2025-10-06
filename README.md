@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0477-total-hamming-distance) |
 | [0498-diagonal-traverse](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0561-array-partition](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0561-array-partition) |
+| [0794-swim-in-rising-water](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0929-groups-of-special-equivalent-strings) |
 | [1220-smallest-sufficient-team](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1220-smallest-sufficient-team) |
 | [1293-three-consecutive-odds](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0794-swim-in-rising-water](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0794-swim-in-rising-water](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2023-design-movie-rental-system](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -296,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
+| [0794-swim-in-rising-water](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1331-path-with-maximum-gold](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1331-path-with-maximum-gold) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -315,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0794-swim-in-rising-water](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
