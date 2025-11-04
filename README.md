@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3483-alternating-groups-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3483-alternating-groups-ii) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3483-alternating-groups-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Sorting
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Counting Sort
 |  |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3548-find-the-count-of-good-integers](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
