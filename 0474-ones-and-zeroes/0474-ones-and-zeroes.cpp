@@ -1,41 +1,46 @@
 class Solution {
 public:
-    vector<int> zero, one;
-    int sz, N, M;
-    int dp[607][107][107];
-    int rec(int idx, int taken0, int taken1) {
-        if (idx >= sz) {
-            if (taken0 <= M && taken1 <= N)
-                return 0;
-
-            return INT_MIN;
-        }
-
-        if(taken0>M || taken1>N) return INT_MIN;
-
-        if(dp[idx][taken0][taken1] != -1) return dp[idx][taken0][taken1];
-
-        int val = rec(idx + 1, taken0, taken1);
-        int tval = 1 + rec(idx + 1, taken0 + zero[idx], taken1 + one[idx]);
-
-        return dp[idx][taken0][taken1] = max(val, tval);
-    }
     int findMaxForm(vector<string>& strs, int m, int n) {
-        M = m;
-        N = n;
+        // till index i if i have x zeros and y ones what maxium subset size can
+        // i acheive
 
-        sz = strs.size();
-        zero.resize(sz);
-        one.resize(sz);
+        int sz = strs.size();
+        vector<vector<vector<int>>> dp(
+            sz, vector<vector<int>>(m + 1, vector<int>(n + 1, 0)));
+
+        vector<pair<int, int>> cnt(sz);
 
         for (int i = 0; i < sz; i++) {
-            int z = count(begin(strs[i]), end(strs[i]), '0');
-            zero[i] = z;
-            one[i] = strs[i].size() - z;
+            int one = count(begin(strs[i]), end(strs[i]), '1');
+            int zero = strs[i].size() - one;
+
+            cnt[i] = {zero, one};
         }
 
-        memset(dp,-1,sizeof(dp));
+        int ans = 0;
+        if (cnt[0].first <= m && cnt[0].second <= n) {
+            dp[0][cnt[0].first][cnt[0].second] = 1;
+            ans = 1;
+        }
 
-        return rec(0, 0, 0);
+        for (int i = 1; i < sz; i++) {
+            int currzero = cnt[i].first;
+            int currone = cnt[i].second;
+
+            for (int j = 0; j <= m; j++) {
+                for (int k = 0; k <= n; k++) {
+                    dp[i][j][k] = max(dp[i][j][k], dp[i - 1][j][k]);
+                    if (j >= currzero && k >= currone) {
+                        dp[i][j][k] =
+                            max(dp[i][j][k],
+                                1 + dp[i - 1][j - currzero][k - currone]);
+                    }
+
+                    ans = max(ans, dp[i][j][k]);
+                }
+            }
+        }
+
+        return ans;
     }
 };
