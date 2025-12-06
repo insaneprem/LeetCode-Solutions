@@ -1,36 +1,23 @@
 class Solution {
 public:
-    int n, k;
-    vector<int> nums;
-    map<int, int> dp;
-    const int MOD = 1e9 + 7;
-    int solve(int i) {
-        if (i == n)
-            return 1;
-
-        if (dp.find(i) != dp.end())
-            return dp[i];
-
-        int ans = 0;
-        int mini = nums[i], maxi = nums[i];
-
-        for (int j = i; j < n; j++) {
-            maxi = max(maxi, nums[j]);
-            mini = min(mini, nums[j]);
-
-            if (maxi - mini > k)
-                break;
-
-            ans = (ans + solve(j + 1)) % MOD;
-        }
-
-        return dp[i] = ans;
-    }
     int countPartitions(vector<int>& nums, int k) {
-        this->nums = nums;
-        this->k = k;
-        this->n = nums.size();
+        int n = nums.size();
+        const long long mod = 1e9 + 7;
+        vector<long long> dp(n + 1);
+        vector<long long> prefix(n + 1);
+        multiset<int> mst;
+        dp[0] = 1;
+        prefix[0] = 1;
 
-        return solve(0);
+        for (int i = 0, j = 0; i < nums.size(); i++) {
+            mst.emplace(nums[i]);
+            while (j <= i && *mst.rbegin() - *mst.begin() > k) {
+                mst.erase(mst.find(nums[j]));
+                j++;
+            }
+            dp[i + 1] = (prefix[i] - (j > 0 ? prefix[j - 1] : 0) + mod) % mod;
+            prefix[i + 1] = (prefix[i] + dp[i + 1]) % mod;
+        }
+        return dp[n];
     }
 };
