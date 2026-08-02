@@ -16,8 +16,8 @@ public:
         } else {
             ans = 1e9;
 
-            int op1 = piles[l] + solve(l + 1, r, 0, piles);
-            int op2 = piles[r] + solve(l, r - 1, 0, piles);
+            int op1 = -piles[l] + solve(l + 1, r, 0, piles);
+            int op2 = -piles[r] + solve(l, r - 1, 0, piles);
 
             ans = min(op1, op2);
         }
