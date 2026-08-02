@@ -25,6 +25,7 @@ public:
         return dp[l][r][turn] = ans;
     }
     bool stoneGame(vector<int>& piles) {
+        return true;
         memset(dp,-1,sizeof(dp));
         return solve(0 , piles.size() - 1 , 1 , piles);
     }
