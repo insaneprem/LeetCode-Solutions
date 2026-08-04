@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3731-find-missing-elements](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
+| [3731-find-missing-elements](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3680-count-connected-components-in-lcm-graph) |
+| [3731-find-missing-elements](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Math
 |  |
