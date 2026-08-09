@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0877-stone-game](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0929-groups-of-special-equivalent-strings) |
+| [1140-stone-game-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1220-smallest-sufficient-team](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1220-smallest-sufficient-team) |
 | [1293-three-consecutive-odds](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1331-path-with-maximum-gold](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1331-path-with-maximum-gold) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2249-count-the-hidden-sequences](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2249-count-the-hidden-sequences) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0867-new-21-game](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0867-new-21-game) |
 | [0877-stone-game](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1170-shortest-common-supersequence](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1220-smallest-sufficient-team](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1220-smallest-sufficient-team) |
 | [1406-stone-game-iii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0477-total-hamming-distance) |
 | [0867-new-21-game](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0867-new-21-game) |
 | [0877-stone-game](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -509,14 +513,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 ## Graph Theory
 |  |
