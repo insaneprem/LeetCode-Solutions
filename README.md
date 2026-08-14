@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-alternating-groups-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2429-design-a-food-rating-system](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2480-find-subarrays-with-equal-sum](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3227-find-missing-and-repeated-values](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/insaneprem/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
