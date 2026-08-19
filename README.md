@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1331-path-with-maximum-gold](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1331-path-with-maximum-gold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1386-cinema-seat-allocation](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1563-stone-game-v](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1563-stone-game-v) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0135-candy) |
 | [0561-array-partition](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0561-array-partition) |
+| [1386-cinema-seat-allocation](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1961-maximum-ice-cream-bars](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0929-groups-of-special-equivalent-strings](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0929-groups-of-special-equivalent-strings) |
+| [1386-cinema-seat-allocation](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2023-design-movie-rental-system](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0477-total-hamming-distance](https://github.com/insaneprem/LeetCode-Solutions/tree/master/0477-total-hamming-distance) |
 | [1220-smallest-sufficient-team](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1220-smallest-sufficient-team) |
+| [1386-cinema-seat-allocation](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/insaneprem/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2402-maximum-xor-after-operations](https://github.com/insaneprem/LeetCode-Solutions/tree/master/2402-maximum-xor-after-operations) |
